@@ -1,0 +1,20 @@
+[{
+  "hotel_id": 1,
+  "hotel_name": "Green apple residency",
+  "price": 1118,
+  "filters": {
+    "hotel_type": "hotel",
+    "award_winner": "no",
+    "star_rating": 3
+  }
+}, {
+  "hotel_id": 5,
+  "hotel_name": "White apple residency",
+  "price": 5118,
+  "filters": {
+    "hotel_type": "resort",
+    "award_winner": "no",
+    "star_rating": 4
+  }
+}
+]

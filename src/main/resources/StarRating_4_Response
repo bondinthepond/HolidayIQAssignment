@@ -1,0 +1,29 @@
+[{
+  "hotel_id": 2,
+  "hotel_name": "Blue apple residency",
+  "price": 2118,
+  "filters": {
+    "hotel_type": "resort",
+    "award_winner": "yes",
+    "star_rating": 4
+  }
+}, {
+  "hotel_id": 4,
+  "hotel_name": "Yellow apple residency",
+  "price": 4118,
+  "filters": {
+    "hotel_type": "hotel",
+    "award_winner": "yes",
+    "star_rating": 4
+  }
+}, {
+  "hotel_id": 5,
+  "hotel_name": "White apple residency",
+  "price": 5118,
+  "filters": {
+    "hotel_type": "resort",
+    "award_winner": "no",
+    "star_rating": 4
+  }
+}
+]

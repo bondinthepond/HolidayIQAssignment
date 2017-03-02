@@ -1,0 +1,38 @@
+[{
+  "hotel_id": 2,
+  "hotel_name": "Blue apple residency",
+  "price": 2118,
+  "filters": {
+    "hotel_type": "resort",
+    "award_winner": "yes",
+    "star_rating": 4
+  }
+}, {
+  "hotel_id": 3,
+  "hotel_name": "Red apple residency",
+  "price": 3118,
+  "filters": {
+    "hotel_type": "resort",
+    "award_winner": "yes",
+    "star_rating": 1
+  }
+}, {
+  "hotel_id": 4,
+  "hotel_name": "Yellow apple residency",
+  "price": 4118,
+  "filters": {
+    "hotel_type": "hotel",
+    "award_winner": "yes",
+    "star_rating": 4
+  }
+}, {
+  "hotel_id": 6,
+  "hotel_name": "Black apple residency",
+  "price": 2118,
+  "filters": {
+    "hotel_type": "resort",
+    "award_winner": "yes",
+    "star_rating": 3
+  }
+}
+]
